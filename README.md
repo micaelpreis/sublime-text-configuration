@@ -3,6 +3,11 @@
 
 In this guide, I will show you how to set up your **Sublime Text 3** just like mine.
 
+<p align="center">
+  <img src="https://github.com/micaelpreis/sublime_text_configuration/blob/master/images/material-theme.png"/>
+  <img src="https://github.com/micaelpreis/sublime_text_configuration/blob/master/images/seti_ui.png"/>
+</p>
+
 ### 1. Installing Package Control
 First let's start by installing Package Control. If you already have it installed you can skip the following step.
 
