@@ -16,31 +16,31 @@ There is a couple of Packages that I found to be really helpful and that can imp
 
 In the list below you can see what packages I have currently installed on my Sublime Text.
 
-> All Autocomplete
-> Better JavaScript
-> BracketHighlighter
-> Color Highlighter
-> ColorPicker
-> Emmet
-> Git
-> GitGutter
-> Javascript Completions
-> jQuery
-> Markdown Preview
-> Material Theme
-> Material Theme - Appbar
-> PackageResourceViewer
-> Rails Developer Snippets
-> Rspec
-> Ruby on Rails snippets
-> Seti_UI
-> SidebarEnchancements
-> SublimeERB
-> SublimeLinter
-> SublimeLinter-contrib-htmlhint
-> SublimeLinter-contrib-ruby-lint
-> SublimeLinter-csslint
-> Terminal
+> All Autocomplete  
+> Better JavaScript  
+> BracketHighlighter  
+> Color Highlighter  
+> ColorPicker  
+> Emmet  
+> Git  
+> GitGutter  
+> Javascript Completions  
+> jQuery  
+> Markdown Preview  
+> Material Theme  
+> Material Theme - Appbar  
+> PackageResourceViewer  
+> Rails Developer Snippets  
+> Rspec  
+> Ruby on Rails snippets  
+> Seti_UI  
+> SidebarEnchancements  
+> SublimeERB  
+> SublimeLinter  
+> SublimeLinter-contrib-htmlhint  
+> SublimeLinter-contrib-ruby-lint  
+> SublimeLinter-csslint  
+> Terminal  
 
 **Note:** To install packages just press (ctrl+shift+p) on Windows or Linux or (command+shift+p) on Mac OS, then select **Install Package**, search for the package you want and install it.
 
