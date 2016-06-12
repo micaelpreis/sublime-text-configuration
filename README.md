@@ -47,3 +47,14 @@ In the file "preferences.sublime-settings" present on the folder "Files", you ca
 In there, all of my configurations for Sublime Text are present together with the configurations for the themes: [Material Theme](https://packagecontrol.io/packages/Material%20Theme) and [Seti_UI](https://packagecontrol.io/packages/Seti_UI).
 
 To apply this configurations just copy paste them to your own file located on **Preferences > Settings-User**.
+
+### 4. Changing Themes
+
+If you want to apply the Material-Theme just put this line in your configuration file:
+
+	"theme": "Material-Theme.sublime-theme",
+
+If you want to set Seti_UI as your main theme just put this line in your configuration file:
+
+	"theme": "Seti_orig.sublime-theme",
+
