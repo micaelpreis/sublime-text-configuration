@@ -22,29 +22,20 @@ There is a couple of Packages that I found to be really helpful and that can imp
 In the list below you can see what packages I have currently installed on my Sublime Text.
 
 > All Autocomplete  
-> Better JavaScript  
 > BracketHighlighter  
 > Color Highlighter  
 > ColorPicker  
 > Emmet  
 > Git  
 > GitGutter  
-> Javascript Completions  
-> jQuery  
 > Markdown Preview  
 > Material Theme  
 > Material Theme - Appbar  
 > PackageResourceViewer  
-> Rails Developer Snippets  
-> Rspec  
-> Ruby on Rails snippets  
 > Seti_UI  
 > SidebarEnchancements  
 > SublimeERB  
 > SublimeLinter  
-> SublimeLinter-contrib-htmlhint  
-> SublimeLinter-contrib-ruby-lint  
-> SublimeLinter-csslint  
 > Terminal  
 
 **Note:** To install packages just press (ctrl+shift+p) on Windows or Linux or (command+shift+p) on Mac OS, then select **Install Package**, search for the package you want and install it.
@@ -53,6 +44,6 @@ In the list below you can see what packages I have currently installed on my Sub
 
 In the file "preferences.sublime-settings" present on the folder "Files", you can see my configuration file.
 
-In there, all of my configurations for Sublime Text are present together with the configurations for the themes: Material and Seti.
+In there, all of my configurations for Sublime Text are present together with the configurations for the themes: [Material Theme](https://packagecontrol.io/packages/Material%20Theme) and [Seti_UI](https://packagecontrol.io/packages/Seti_UI).
 
 To apply this configurations just copy paste them to your own file located on **Preferences > Settings-User**.
